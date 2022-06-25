@@ -10,3 +10,4 @@ This is where the meat of the code starts, the while loop is basically just usin
 A variable comes in that asks if the person thinks that they know the word. Based on the input, being y or n, it asks proceeding questions. 
 Then the code does the standard hangman gameplay, as well as printing the corresponding string. 
 
+Thank you to professorcool09 for the help!
