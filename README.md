@@ -11,3 +11,5 @@ A variable comes in that asks if the person thinks that they know the word. Base
 Then the code does the standard hangman gameplay, as well as printing the corresponding string. 
 
 Thank you to professorcool09 for the help!
+
+I love fortnite battle pass and I am a pro fortnite player
